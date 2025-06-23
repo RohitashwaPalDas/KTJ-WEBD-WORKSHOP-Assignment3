@@ -85,9 +85,14 @@ The questions are stored in `src/data/questions.js` and are filtered based on se
 
 ## 📸 Screenshots
 
-| Quiz Screen | Score Summary | Leaderboard |
-|-------------|---------------|-------------|
-| ![Home](src/assets/home.png) | ![About](src/assets/about.png) | ![UserDetails](src/assets/quizStart.png) | ![QuizBoard](src/assets/quizBoard.png) | ![ScoreSummary](src/assets/scoreSummary.png) | ![Leaderboard](src/assets/leaderboard.png) |
+| Home | Quiz Start | Quiz Board |
+|------|------------|------------|
+| ![Home](src/assets/home.png) | ![Quiz Start](src/assets/quizStart.png) | ![Quiz Board](src/assets/quizBoard.png) |
+
+| Score Summary | Leaderboard | About |
+|---------------|-------------|-------|
+| ![Score Summary](src/assets/scoreSummary.png) | ![Leaderboard](src/assets/leaderboard.png) | ![About](src/assets/about.png) |
+
 
 ## 📁 Folder Structure
 
