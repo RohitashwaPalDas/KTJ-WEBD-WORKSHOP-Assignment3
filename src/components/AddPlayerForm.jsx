@@ -32,7 +32,6 @@ const AddPlayerForm = () => {
           Enter the Arena
         </h2>
 
-        {/* Name Field */}
         <div className="mb-6">
           <label htmlFor="name" className="block text-sm mb-2 font-semibold">
             Player Name
@@ -48,7 +47,6 @@ const AddPlayerForm = () => {
           />
         </div>
 
-        {/* Category Dropdown */}
         <div className="mb-6">
           <label
             htmlFor="category"
@@ -71,7 +69,6 @@ const AddPlayerForm = () => {
           </select>
         </div>
 
-        {/* Difficulty Dropdown */}
         <div className="mb-8">
           <label
             htmlFor="difficulty"
@@ -93,7 +90,6 @@ const AddPlayerForm = () => {
           </select>
         </div>
 
-        {/* Submit Button */}
         <button
           type="submit"
           disabled={!isFormValid}
